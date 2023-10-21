@@ -11,4 +11,7 @@ Today, I will delve into the data related to COVID-19, examining the impact of C
 I got the data from [here](https://ourworldindata.org/covid-deaths) on Our World in Data and downloaded it on 15 ‎October ‎2023. This data contains information about COVID-19 such as country, population, number of people infected, number of people who died, number of people who were vaccinated, and so on as the main data source for analysis.
 
 ## Problem Statement
-1. 
+1. Which country has the highest COVID-19 cases?
+2. Which country has the highest Death percentage based on COVID-19 cases?
+3. How did COVID-19 cases grow in Indonesia in 2020?
+4. How do total COVID-19 cases, total deaths, and vaccination rates compare across continents or geographic regions? Are there significant differences between these regions?
