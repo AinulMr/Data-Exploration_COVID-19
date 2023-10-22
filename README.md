@@ -69,5 +69,9 @@ In this variable, we can see the death percentage based on the number of people 
 #### Conclusion
 Based on the short analysis, I can inform the country with the highest number of deaths is Mexico with 334,669 people dying which has a 4.35% death percentage. It means, 334,669 of 7,692,369 people died during the COVID-19. In Yemen, only 2,159 people died during the pandemic COVID-19. It is less than Mexico's number of deaths but, in Yemen, the death percentage is at 18.07%. It means if you got infected by COVID-19 in Yemen, you have a chance of dying at 18.07%.
 
+### 3. COVID-19 Growth in Indonesia
+![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Growth%20in%20Indonesia.png)
 
-
+The data used is based on 2020 in Indonesia to show the growth of COVID-19 every month in 2020.
+#### Number of COVID-19 Infection
+I can inform since February 2020 the number of COVID-19 cases has increased until December 2020
