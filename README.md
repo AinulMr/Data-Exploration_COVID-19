@@ -15,3 +15,22 @@ I got the data from [here](https://ourworldindata.org/covid-deaths) on Our World
 2. Which country has the highest Death percentage based on COVID-19 cases?
 3. How did COVID-19 cases grow in Indonesia in 2020?
 4. How do total COVID-19 cases, total deaths, and vaccination rates compare across continents or geographic regions? Are there significant differences between these regions?
+
+## Analysis method
+I use SQL Server Management Studio and Tableau for the Analysis
+1. SQL Server Management Studio is used for data cleaning, joining tables, manipulation of data and aggregation of data 
+2. Tableau is used to create a better look for the data and informative visualizations.
+
+## Data Pre-processing
+In this section, we are required to tidy the data first before we get initial insight from the Exploratory Data Analysis step
+1. Import required main data tables like Covid Deaths and Covid Vaccinations
+2. Deleting Irrelevant Rows
+3. Change the data type
+4. Select the required variable
+5. Dealing with Null values
+
+## SQL Script
+Here is my whole SQL script for this project. []
+
+## Analysis and Conclusion
+
