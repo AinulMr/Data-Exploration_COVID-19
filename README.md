@@ -75,4 +75,7 @@ Based on the short analysis, I can inform the country with the highest number of
 The data used is based on 2020 in Indonesia to show the growth of COVID-19 every month in 2020.
 #### Number of COVID-19 Infection
 I can inform since February 2020 the number of COVID-19 cases has increased until December 2020
-- In December, the number of COVID-19 cases at 
+- In March for the first time COVID-19 cases in Indonesia. the number of COVID-19 cases at 1,532 people or 0.0005% of the population in Indonesia.
+- In December, the number of COVID-19 cases increased to 204,315 or 0.07% of the population in Indonesia.
+- From August to September number of COVID-19 cases increased significantly from 66,240 to 112,212 or 69.44%
+
