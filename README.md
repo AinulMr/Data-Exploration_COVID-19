@@ -1,4 +1,4 @@
-# Are we safe from COVID-19 now?
+# Are we really safe from COVID-19 now?
 
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/3877986.jpg)
 
@@ -75,3 +75,4 @@ Based on the short analysis, I can inform the country with the highest number of
 The data used is based on 2020 in Indonesia to show the growth of COVID-19 every month in 2020.
 #### Number of COVID-19 Infection
 I can inform since February 2020 the number of COVID-19 cases has increased until December 2020
+- In December, the number of COVID-19 cases at 
