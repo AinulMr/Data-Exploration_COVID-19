@@ -17,7 +17,7 @@ I got the data from [here](https://ourworldindata.org/covid-deaths) on Our World
 4. How do total COVID-19 cases, total deaths, and vaccination rates compare across continents or geographic regions? Are there significant differences between these regions?
 
 ## Analysis method
-I use SQL Server Management Studio and Tableau for the Analysis
+I used SQL Server Management Studio and Tableau for the Analysis
 1. SQL Server Management Studio is used for data cleaning, joining tables, manipulation of data and aggregation of data 
 2. Tableau is used to create a better look for the data and informative visualizations.
 
@@ -36,7 +36,7 @@ Here is my whole SQL script for this project. [SQL Script](CleanQuery.sql)
 ### 1. COVID-19 Infection
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Infection.png)
 
-#### Infection Count
+#### COVID-19 Infection Count
 The data used is based on 2020 to 2023 and I showed the list top 20 countries with the highest COVID-19 Infection. From this table, we can analyze:
   - France has the highest COVID-19 infection until 2023. There were 38,997,490 people infected with Covid-19.
   - Second place is South Korea with a number that is not much different from France. There were 34,571,873 people infected with COVID-19.
@@ -45,13 +45,23 @@ The data used is based on 2020 to 2023 and I showed the list top 20 countries wi
 #### COVID-19 Infection Percentage
 With this variable, we can see the COVID-19 infection percentage based on the population of a country. From this table, we can analyze:
   - Cyprus has the highest COVID-19 infection percentage at 73,76%. There were 660,854 of 896,007 people infected with COVID-19.
-  - Second place San Marino with 73,30%. There were 24,695 of 33,690 people infected with COVID-19.
+  - Second place is San Marino with 73,30%. There were 24,695 of 33,690 people infected with COVID-19.
   - The last place is Latvia has the lowest COVID-19 infection percentage at 52,76%. There were 976,316 of 1,850,654 people infected with COVID-19.
 
 #### Conclusion
 Based on the short analysis, I can inform the country with the highest COVID-19 infections France with 38,997,490 people infected with COVID-19 which has a 57,51% COVID-19 infection percentage. This means, only half of the whole France population is infected by COVID-19. While Cyprus only has 660,854 people infected with COVID-19. It's much better than France with 38,997,490 people infected with COVID-19 but, in Cyprus, the COVID-19 infection percentage is at 73,76%. It means if you live in Cyprus you have a chance of getting infected by COVID-19 at 73,76%.
 
+### 2. COVID-19 Death Percentage
+![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Death%20Percentage.png)
 
+#### Total Deaths
+The data used is based on 2020 to 2023 and I showed the list top 20 countries with the highest deaths during COVID-19 Infection. From this table, we can analyze:
+- Mexico has the highest death during the pandemic COVID-19 with 334,669 people death
+- Second place is Peru with 221,704 people dying during the pandemic COVID-19
+- The last place is Liberia with 295 people dying during the pandemic COVID-19
+
+#### Death Percentage
+This 
 
 
 
