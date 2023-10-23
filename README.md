@@ -72,20 +72,26 @@ Based on the short analysis, I can inform the country with the highest number of
 ### 3. COVID-19 Growth in Indonesia
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Growth%20in%20Indonesia.png)
 
+![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Cases%20Percentage.png)
+
 The data used is based on Indonesia to show the growth of COVID-19 every month from 2020 until 2023.
 #### Number of COVID-19 Infection
-- COVID-19 entered Indonesia in March 2020 with number of infections at 1,532 people.
-- The highest cases of infection COVID-19 in July 2021 at 1,231,386 people infected.
-- At the end of 2021, COVID-19 cases decreased to 6,311, but surprisingly, two months later number of number of infections increased to 1,211,078 people in February 2022.
+- COVID-19 entered Indonesia in March 2020 with number of infections at 1,532 people. 1,532 is 0.074% of the population of Indonesia.
+- The highest cases of infection COVID-19 in July 2021 at 1,231,386 people infected. 1,231,386 is 0.447% of the population of Indonesia.
+- At the end of 2021, COVID-19 cases decreased to 6,311 but, two months later number of number of infections increased to 1,211,078 people in February 2022.
 - In 2022, COVID-19 cases decreased to 54,971 at the end of the year and the lowest point at 8,177 in May 2022.
-- In 2023 the highest cases of infection COVID-19 in May at 32,792 people.
+- In 2023 the highest cases of infection COVID-19 in May at 32,792 people. 32,792 is 0.012% of the population of Indonesia.
 
 #### Number of Vaccination
 - In 2020 no one took the vaccine. The data about vaccines is null in 2020.
-- In January 2021, data emerged regarding vaccine use for the first time by 366,439 people.
-- The highest number of Vaccinations at 51,168,870 in October 2021.
+- In January 2021, data emerged regarding vaccine use for the first time by 366,439 people. it's only 0.1% of the population of Indonesia.
+- The highest number of Vaccinations at 51,168,870 in October 2021. it's only 18.6 of the population of Indonesia.
 - The number of vaccinations decreased to 23,193,705 in March 2022 until 0 in 2023.
 
 #### Number of Death
-- In 2020, the number of deaths continued to increase to 5,193 in December 2020.
-- 
+- In 2020, the number of deaths continued to increase to 5,193 in December 2020. it's only 0.0019% of the population of Indonesia.
+- The highest number of deaths in August 2021 at 38.904 people. it's only 0,0141% of the population of Indonesia. 
+- At the end of 2021, the number of deaths decreased significantly to 264 people.
+- In Early 2022, the number of deaths increased to 6,754 in March 2022 and decreased again to 782 at the of 2022
+- In 2023 the highest number of deaths at 487 people. it's only 0.0000001 of the population of Indonesia.
+
