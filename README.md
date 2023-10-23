@@ -37,7 +37,7 @@ Here is my whole SQL script for this project. [SQL Script](CleanQuery.sql)
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Infection.png)
 
 #### COVID-19 Infection Count
-The data used is based on 2020 to 2023 and I showed the list top 20 countries with the highest COVID-19 Infection. From this table, we can analyze:
+The data used is based on 2020 to 2023 and I showed the list of the top 20 countries with the highest COVID-19 Infection. From this table, we can analyze:
   - France has the highest COVID-19 infection until 2023. There were 38,997,490 people infected with Covid-19.
   - Second place is South Korea with a number that is not much different from France. There were 34,571,873 people infected with COVID-19.
   - The last place is Saint Pierre and Miquelon has the lowest COVID-19 Infection at 3,426 people.
@@ -49,7 +49,7 @@ With this variable, we can see the COVID-19 infection percentage based on the po
   - The last place is Latvia has the lowest COVID-19 infection percentage at 52.76%. There were 976,316 of 1,850,654 people infected with COVID-19.
 
 #### Conclusion
-Based on the short analysis, I can inform the country with the highest COVID-19 infections is France with 38,997,490 people infected with COVID-19 which has a 57,51% COVID-19 infection percentage. It means, only half of the whole France population is infected by COVID-19. While Cyprus only has 660,854 people infected with COVID-19. It's much better than France with 38,997,490 people infected with COVID-19 but, in Cyprus, the COVID-19 infection percentage is at 73.76%. It means if you live in Cyprus, you have a chance of getting infected by COVID-19 at 73.76%.
+Based on the short analysis, I can inform the country with the highest COVID-19 infections is France with 38,997,490 people infected with COVID-19 which has a 57,51% COVID-19 infection percentage. It means that only half of France's population is infected by COVID-19. While Cyprus only has 660,854 people infected with COVID-19. It's much better than France with 38,997,490 people infected with COVID-19 but, in Cyprus, the COVID-19 infection percentage is at 73.76%.
 
 ### 2. COVID-19 Death Percentage
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Death%20Percentage.png)
@@ -67,15 +67,25 @@ In this variable, we can see the death percentage based on the number of people 
 - The last place is Algeria at 2.53%. There were 6,881 of 271,928 people dying during the pandemic COVID-19.
 
 #### Conclusion
-Based on the short analysis, I can inform the country with the highest number of deaths is Mexico with 334,669 people dying which has a 4.35% death percentage. It means, 334,669 of 7,692,369 people died during the COVID-19. In Yemen, only 2,159 people died during the pandemic COVID-19. It is less than Mexico's number of deaths but, in Yemen, the death percentage is at 18.07%. It means if you got infected by COVID-19 in Yemen, you have a chance of dying at 18.07%.
+Based on the short analysis, I can inform the country with the highest number of deaths is Mexico with 334,669 people dying which has a 4.35% death percentage. It means, 334,669 of 7,692,369 people died during the COVID-19. In Yemen, only 2,159 people died during the pandemic COVID-19. It is less than Mexico's number of deaths but, in Yemen, the death percentage is at 18.07%.
 
 ### 3. COVID-19 Growth in Indonesia
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Growth%20in%20Indonesia.png)
 
-The data used is based on 2020 in Indonesia to show the growth of COVID-19 every month in 2020.
+The data used is based on Indonesia to show the growth of COVID-19 every month from 2020 until 2023.
 #### Number of COVID-19 Infection
-I can inform since February 2020 the number of COVID-19 cases has increased until December 2020
-- In March for the first time COVID-19 cases in Indonesia. the number of COVID-19 cases at 1,532 people or 0.0005% of the population in Indonesia.
-- In December, the number of COVID-19 cases increased to 204,315 or 0.07% of the population in Indonesia.
-- From August to September number of COVID-19 cases increased significantly from 66,240 to 112,212 or 69.44%
+- COVID-19 entered Indonesia in March 2020 with number of infections at 1,532 people.
+- The highest cases of infection COVID-19 in July 2021 at 1,231,386 people infected.
+- At the end of 2021, COVID-19 cases decreased to 6,311, but surprisingly, two months later number of number of infections increased to 1,211,078 people in February 2022.
+- In 2022, COVID-19 cases decreased to 54,971 at the end of the year and the lowest point at 8,177 in May 2022.
+- In 2023 the highest cases of infection COVID-19 in May at 32,792 people.
 
+#### Number of Vaccination
+- In 2020 no one took the vaccine. The data about vaccines is null in 2020.
+- In January 2021, data emerged regarding vaccine use for the first time by 366,439 people.
+- The highest number of Vaccinations at 51,168,870 in October 2021.
+- The number of vaccinations decreased to 23,193,705 in March 2022 until 0 in 2023.
+
+#### Number of Death
+- In 2020, the number of deaths continued to increase to 5,193 in December 2020.
+- 
