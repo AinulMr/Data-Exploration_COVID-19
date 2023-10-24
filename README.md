@@ -98,4 +98,24 @@ The data used is based on Indonesia to show the growth of COVID-19 every month f
 #### Conclusion
 Based on the short analysis, I can inform the first year of the COVID-19 pandemic is 2020, and the number of COVID-19 cases and deaths keep rising until January 2021. After we took the first vaccination in January 2021, the number of COVID-19 cases and deaths slowly decreased until May 2021 aslo the vaccination number too. But, significantly the number of COVID-19 cases and deaths rose again in July to 0,447% and 0.0129%. After that, the number of vaccinations rose in October 2021 to 18.6%. That is the highest number we got during the COVID-19 pandemic. The number of COVID-19 cases and deaths decreased until the end of 2021. In early 2022 The number of COVID-19 cases and deaths increased again and the number of vaccinations increased too. It can be concluded that an increase in vaccinations results in a decrease in COVID-19 cases and deaths.
 
+### 4. Comparing Across Continents
+![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/Dashboard%20Vaccination%20Compare%20Across%20Continents.png)
+
+This chart shows us about average vaccination in each continent and how the COVID-19 cases and deaths during the pandemic from 2020 to 2023.
+
+#### Average Vaccination Across Continent
+- Asia in the first place with the highest average vaccination from 2020 to 2023 at 5,288,198,577.
+- Oceania in last place with the lowest average vaccination from 2020 to 2023 at 54,468,952
+
+#### Total People Vaccination Across Continent
+- In 2020, Africa and Oceania are the continents that didn't take the vaccine or the data is null.
+- In Africa 2021, total vaccination increased from 82,606,042 to 117,367.074 in 2023.
+- In Asia, total vaccination increased from 1,016,774 in 2020 to 7,550,329,696 in 2023.
+- In Europe, total vaccination increased from 316,297 in 2020 to 1,265,537,528 in 2023.
+- In North America, total vaccination increased from 5,785,031 in 2020 to 998,301,280 in 2023.
+- In Oceania, total vaccination increased from 50,651,361 in 2021 to 74,542,164 in 2023.
+- In South America, total vaccination increased from 31,136 in 2020 to 845,232,483 in 2023.
+
+####
+
 
