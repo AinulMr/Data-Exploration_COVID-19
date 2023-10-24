@@ -49,7 +49,7 @@ With this variable, we can see the COVID-19 infection percentage based on the po
   - The last place is Latvia has the lowest COVID-19 infection percentage at 52.76%. There were 976,316 of 1,850,654 people infected with COVID-19.
 
 #### Conclusion
-Based on the short analysis, I can inform the country with the highest COVID-19 infections is France with 38,997,490 people infected with COVID-19 which has a 57,51% COVID-19 infection percentage. It means that only half of France's population is infected by COVID-19. While Cyprus only has 660,854 people infected with COVID-19. It's much better than France with 38,997,490 people infected with COVID-19 but, in Cyprus, the COVID-19 infection percentage is at 73.76%.
+Based on the short analysis, I can conclude the country with the highest COVID-19 infections is France with 38,997,490 people infected with COVID-19 which has a 57,51% COVID-19 infection percentage. It means that only half of France's population is infected by COVID-19. While Cyprus only has 660,854 people infected with COVID-19. It's much better than France with 38,997,490 people infected with COVID-19 but, in Cyprus, the COVID-19 infection percentage is at 73.76%.
 
 ### 2. COVID-19 Death Percentage
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Death%20Percentage.png)
@@ -67,7 +67,7 @@ In this variable, we can see the death percentage based on the number of people 
 - The last place is Algeria at 2.53%. There were 6,881 of 271,928 people dying during the pandemic COVID-19.
 
 #### Conclusion
-Based on the short analysis, I can inform the country with the highest number of deaths is Mexico with 334,669 people dying which has a 4.35% death percentage. It means, 334,669 of 7,692,369 people died during the COVID-19. In Yemen, only 2,159 people died during the pandemic COVID-19. It is less than Mexico's number of deaths but, in Yemen, the death percentage is at 18.07%.
+Based on the short analysis, I can conclude the country with the highest number of deaths is Mexico with 334,669 people dying which has a 4.35% death percentage. It means, 334,669 of 7,692,369 people died during the COVID-19. In Yemen, only 2,159 people died during the pandemic COVID-19. It is less than Mexico's number of deaths but, in Yemen, the death percentage is at 18.07%.
 
 ### 3. COVID-19 Growth in Indonesia
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Growth%20in%20Indonesia.png)
@@ -94,4 +94,8 @@ The data used is based on Indonesia to show the growth of COVID-19 every month f
 - At the end of 2021, the number of deaths decreased significantly to 264 people.
 - In Early 2022, the number of deaths increased to 6,754 in March 2022 and decreased again to 782 at the of 2022
 - In 2023 the highest number of deaths at 487 people. it's only 0.0000001 of the population of Indonesia.
+
+#### Conclusion
+Based on the short analysis, I can inform the first year of the COVID-19 pandemic is 2020, and the number of COVID-19 cases and deaths keep rising until January 2021. After we took the first vaccination in January 2021, the number of COVID-19 cases and deaths slowly decreased until May 2021 aslo the vaccination number too. But, significantly the number of COVID-19 cases and deaths rose again in July to 0,447% and 0.0129%. After that, the number of vaccinations rose in October 2021 to 18.6%. That is the highest number we got during the COVID-19 pandemic. The number of COVID-19 cases and deaths decreased until the end of 2021. In early 2022 The number of COVID-19 cases and deaths increased again and the number of vaccinations increased too. It can be concluded that an increase in vaccinations results in a decrease in COVID-19 cases and deaths.
+
 
