@@ -70,30 +70,35 @@ In this variable, we can see the death percentage based on the number of people 
 Based on the short analysis, I can conclude the country with the highest number of deaths is Mexico with 334,669 people dying which has a 4.35% death percentage. It means, 334,669 of 7,692,369 people died during the COVID-19. In Yemen, only 2,159 people died during the pandemic COVID-19. It is less than Mexico's number of deaths but, in Yemen, the death percentage is at 18.07%.
 
 ### 3. COVID-19 Growth in Indonesia
-![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Growth%20in%20Indonesia.png)
 
-![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Cases%20Percentage.png)
+![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/Dashboard%20COVID-19%20Growth%20in%20Indonesia.png)
 
 The data used is based on Indonesia to show the growth of COVID-19 every month from 2020 until 2023.
 #### Number of COVID-19 Infection
 - COVID-19 entered Indonesia in March 2020 with number of infections at 1,532 people. 1,532 is 0.074% of the population of Indonesia.
-- The highest cases of infection COVID-19 in July 2021 at 1,231,386 people infected. 1,231,386 is 0.447% of the population of Indonesia.
-- At the end of 2021, COVID-19 cases decreased to 6,311 but, two months later number of number of infections increased to 1,211,078 people in February 2022.
-- In 2022, COVID-19 cases decreased to 54,971 at the end of the year and the lowest point at 8,177 in May 2022.
-- In 2023 the highest cases of infection COVID-19 in May at 32,792 people. 32,792 is 0.012% of the population of Indonesia.
+- In 2021, the number of cases increased until the end of the year from 1,078,314 to 4,262,720 people, increasing by 295.99%.
+- In 2022, the number of cases increased until the end of the year from 4,353,370 to 6,719,815 people, increasing by 54.37%.
+- In 2023, the number of cases increased until October 2023 from 6,730,016 to 6,813,429, increasing by 1.24%.
 
-#### Number of Vaccination
-- In 2020 no one took the vaccine. The data about vaccines is null in 2020.
-- In January 2021, data emerged regarding vaccine use for the first time by 366,439 people. it's only 0.1% of the population of Indonesia.
-- The highest number of Vaccinations at 51,168,870 in October 2021. it's only 18.6 of the population of Indonesia.
-- The number of vaccinations decreased to 23,193,705 in March 2022 until 0 in 2023.
+#### Number of People Vaccinated
+- After the emergence of COVID-19, data emerged regarding vaccine use for the first time in Indonesia by 493,133 in January 2021.
+- In January 2021, the number of people vaccinated increased until the end of the year from 493,133 to 161,082,857 people, increasing by 32621.02%.
+- In January 2022, the number of people vaccinated increased until the end of the year from 184,608,997 to 203,575,051 people, increasing by 10.30%.
+- In January 2023, the number of people vaccinated increased until June from 203,657,525 to 203,845,350 people, increasing by 0.092%.
 
-#### Number of Death
-- In 2020, the number of deaths continued to increase to 5,193 in December 2020. it's only 0.0019% of the population of Indonesia.
-- The highest number of deaths in August 2021 at 38.904 people. it's only 0,0141% of the population of Indonesia. 
-- At the end of 2021, the number of deaths decreased significantly to 264 people.
-- In Early 2022, the number of deaths increased to 6,754 in March 2022 and decreased again to 782 at the of 2022
-- In 2023 the highest number of deaths at 487 people. it's only 0.0000001 of the population of Indonesia.
+#### Number of Deaths
+- Data on deaths during the pandemic began to be recorded in March 2020 at 136 people.
+- In March 2020, the number of deaths increased until the end of the year from 136 to 22,138 people, increasing by 16117.65%.
+- In January 2021, the number of deaths increased until the end of the year from 29,998 to 144,095 people, increasing by 380.13%.
+- In January 2022, the number of deaths increased until the end of the year from 144,320 to 160,612 people, increasing by 11.27%.
+- In January 2023, the number of deaths increased until October 2023 from 160,814 to 161,918 people, increasing by 0.686%.
+
+#### In Percentage
+This graphic shows the total percentage of COVID-19 cases and deaths every month from 2020 until 2023.
+- Population of Indonesia is 275501344 based on the data.
+- The highest COVID-19 percentage in July 2022 at 0,44%. It means the addition of COVID-19 cases in a month was 1,214,006 people.
+- The highest death percentage in August 2022 at 0,014%. It means the addition of deaths in a month was 38,770 people.
+- The total of people vaccinated in June 2023 was 73.99%. 203,845,350 people vaccinated in total from 2020 to 2023
 
 #### Conclusion
 Based on the short analysis, I can inform the first year of the COVID-19 pandemic is 2020, and the number of COVID-19 cases and deaths keep rising until January 2021. After we took the first vaccination in January 2021, the number of COVID-19 cases and deaths slowly decreased until May 2021 aslo the vaccination number too. But, significantly the number of COVID-19 cases and deaths rose again in July to 0,447% and 0.0129%. After that, the number of vaccinations rose in October 2021 to 18.6%. That is the highest number we got during the COVID-19 pandemic. The number of COVID-19 cases and deaths decreased until the end of 2021. In early 2022 The number of COVID-19 cases and deaths increased again and the number of vaccinations increased too. It can be concluded that an increase in vaccinations results in a decrease in COVID-19 cases and deaths.
