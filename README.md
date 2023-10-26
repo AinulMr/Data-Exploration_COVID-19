@@ -131,4 +131,17 @@ This chart shows us about average vaccination in each continent and how the COVI
 - In South America, total COVID-19 cases increased from 55,184 in 2020 to 124,491,980 in 2023, increasing by 448.76% or 101,792,465 people.
 
 #### Total Deaths Across Continent 2020-2023
-- In Africa, total deaths increased from 2,747,852 in 2020 to 13,113,368 in 2023, increasing by 377.91% or 10,365,516 people.
+- In Africa, total deaths increased from 65,052 in 2020 to 259,021 in 2023, increasing by 298.69% or 193,969 people.
+- In Asia, total deaths increased from 335,889 in 2020 to 1,633,780 in 2023, increasing by 386.44% or 1,297,891 people.
+- In Europe, total deaths increased from 578,483 in 2020 to 2,078,570 in 2023, increasing by 259.47% or 1,500,087 people.
+- In North America, total deaths increased from 536,063 in 2020 to 1,603,320 in 2023, increasing by 199.95% or 1,067,257 people.
+- In Oceania, total deaths increased from 1,193 in 2020 to 29,896 in 2023, increasing by 2,407.79% or 28,703 people.
+- In South America, total deaths increased from 420,059 in 2020 to 1,356,420 in 2023, increasing by 223.92% or 936,361 people.
+
+#### In Percentage
+- South America has the highest vaccination percentage across the continent at 85.94% of the population in South America. It's 375,364,544 people.
+- Europe has the highest COVID-19 percentage across the continent at 33.51% of the population in Europe, it's 249,600,407 people.
+- South America has the highest death percentage across the continent at 0,31% of the population in South America. It's 1,356,420 people
+
+#### Conclusion
+Based on the short analysis, Every continent experienced a significant increase in the number of COVID-19 cases and deaths from 2020 to 2021
