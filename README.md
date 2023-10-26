@@ -76,32 +76,33 @@ Based on the short analysis, I can conclude the country with the highest number 
 The data used is based on Indonesia to show the growth of COVID-19 every month from 2020 until 2023.
 #### Number of COVID-19 Infection
 - COVID-19 entered Indonesia in March 2020 with number of infections at 1,532 people. 1,532 is 0.074% of the population of Indonesia.
-- In 2021, the number of cases increased until the end of the year from 1,078,314 to 4,262,720 people, increasing by 295.99%.
-- In 2022, the number of cases increased until the end of the year from 4,353,370 to 6,719,815 people, increasing by 54.37%.
-- In 2023, the number of cases increased until October 2023 from 6,730,016 to 6,813,429, increasing by 1.24%.
+- In March 2020, the number of cases increased until the end of the year from 1,532 to 743,198 people, increasing by 48,283.12% or 741,666 people.
+- In 2021, the number of cases increased until the end of the year from 1,078,314 to 4,262,720 people, increasing by 295.99% or 3,184,406 people.
+- In 2022, the number of cases increased until the end of the year from 4,353,370 to 6,719,815 people, increasing by 54.37% or 2,366,445 people.
+- In 2023, the number of cases increased until October 2023 from 6,730,016 to 6,813,429, increasing by 1.24% or 83,413 people.
 
 #### Number of People Vaccinated
 - After the emergence of COVID-19, data emerged regarding vaccine use for the first time in Indonesia by 493,133 in January 2021.
-- In January 2021, the number of people vaccinated increased until the end of the year from 493,133 to 161,082,857 people, increasing by 32621.02%.
-- In January 2022, the number of people vaccinated increased until the end of the year from 184,608,997 to 203,575,051 people, increasing by 10.30%.
-- In January 2023, the number of people vaccinated increased until June from 203,657,525 to 203,845,350 people, increasing by 0.092%.
+- In January 2021, the number of people vaccinated increased until the end of the year from 493,133 to 161,082,857 people, increasing by 32,621.02% or 160,589,724 people.
+- In January 2022, the number of people vaccinated increased until the end of the year from 184,608,997 to 203,575,051 people, increasing by 10.30% or 18,966,054 people.
+- In January 2023, the number of people vaccinated increased until June from 203,657,525 to 203,845,350 people, increasing by 0.092% or 187,825 people.
 
 #### Number of Deaths
 - Data on deaths during the pandemic began to be recorded in March 2020 at 136 people.
-- In March 2020, the number of deaths increased until the end of the year from 136 to 22,138 people, increasing by 16117.65%.
-- In January 2021, the number of deaths increased until the end of the year from 29,998 to 144,095 people, increasing by 380.13%.
-- In January 2022, the number of deaths increased until the end of the year from 144,320 to 160,612 people, increasing by 11.27%.
-- In January 2023, the number of deaths increased until October 2023 from 160,814 to 161,918 people, increasing by 0.686%.
+- In March 2020, the number of deaths increased until the end of the year from 136 to 22,138 people, increasing by 16,117.65% or 22,002 people. 
+- In January 2021, the number of deaths increased until the end of the year from 29,998 to 144,095 people, increasing by 380.13% or 114,097 people.
+- In January 2022, the number of deaths increased until the end of the year from 144,320 to 160,612 people, increasing by 11.27% or 16,292 people.
+- In January 2023, the number of deaths increased until October 2023 from 160,814 to 161,918 people, increasing by 0.686% or 1,104. people.
 
 #### In Percentage
 This graphic shows the total percentage of COVID-19 cases and deaths every month from 2020 until 2023.
 - Population of Indonesia is 275501344 based on the data.
-- The highest COVID-19 percentage in July 2022 at 0,44%. It means the addition of COVID-19 cases in a month was 1,214,006 people.
+- The highest COVID-19 percentage in July 2021 at 0,44%. It means the addition of COVID-19 cases in a month was 1,214,006 people.
 - The highest death percentage in August 2022 at 0,014%. It means the addition of deaths in a month was 38,770 people.
 - The total of people vaccinated in June 2023 was 73.99%. 203,845,350 people vaccinated in total from 2020 to 2023
 
 #### Conclusion
-Based on the short analysis, I can inform the first year of the COVID-19 pandemic is 2020, and the number of COVID-19 cases and deaths keep rising until January 2021. After we took the first vaccination in January 2021, the number of COVID-19 cases and deaths slowly decreased until May 2021 aslo the vaccination number too. But, significantly the number of COVID-19 cases and deaths rose again in July to 0,447% and 0.0129%. After that, the number of vaccinations rose in October 2021 to 18.6%. That is the highest number we got during the COVID-19 pandemic. The number of COVID-19 cases and deaths decreased until the end of 2021. In early 2022 The number of COVID-19 cases and deaths increased again and the number of vaccinations increased too. It can be concluded that an increase in vaccinations results in a decrease in COVID-19 cases and deaths.
+Based on the short analysis, I can inform you that the number of COVID-19 infections continues to increase until its peak in 2021 is 3,184,406 people in a year. Same with the number of deaths continues to increase until its peak in 2021 is 114,097 people in a year. After we took the first vaccine in January 2021, the number of people vaccinated increased from 493,133 to 161,082,857 people, increasing by 32,621.02% or 160,589,724 people in a year. In 2022, COVID-19 Infection decreased to 2,366,445 and the number of deaths decreased to 16,292 in a year. It's continuously decreased until 2023. It can be concluded that an increase in vaccinations results in a decrease in COVID-19 cases and deaths. 
 
 ### 4. Comparing Across Continents
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/Dashboard%20Vaccination%20Compare%20Across%20Continents.png)
@@ -109,18 +110,25 @@ Based on the short analysis, I can inform the first year of the COVID-19 pandemi
 This chart shows us about average vaccination in each continent and how the COVID-19 cases and deaths during the pandemic from 2020 to 2023.
 
 #### Average Vaccination Across Continent
-- Asia in the first place with the highest average vaccination from 2020 to 2023 at 5,288,198,577.
-- Oceania in last place with the lowest average vaccination from 2020 to 2023 at 54,468,952
+- Asia in the first place with the highest average vaccination from 2020 to 2023 at 2,697,161,339.
+- Oceania in last place with the lowest average vaccination from 2020 to 2023 at 21,782,549.
 
-#### Total People Vaccination Across Continent
+#### Total People Vaccination Across Continent 2020 - 2023
 - In 2020, Africa and Oceania are the continents that didn't take the vaccine or the data is null.
-- In Africa 2021, total vaccination increased from 82,606,042 to 117,367.074 in 2023.
-- In Asia, total vaccination increased from 1,016,774 in 2020 to 7,550,329,696 in 2023.
-- In Europe, total vaccination increased from 316,297 in 2020 to 1,265,537,528 in 2023.
-- In North America, total vaccination increased from 5,785,031 in 2020 to 998,301,280 in 2023.
-- In Oceania, total vaccination increased from 50,651,361 in 2021 to 74,542,164 in 2023.
-- In South America, total vaccination increased from 31,136 in 2020 to 845,232,483 in 2023.
+- In Africa 2021, total vaccination increased from 193,644,216 to 553,200,675 in 2023, increasing by 185.11% or 359,556,459 people.
+- In Asia, total vaccination increased from 1,058,055 in 2020 to 3,686,236,971 in 2023, increasing by 349,085.98% or 3,685,178,916 people.
+- In Europe, total vaccination increased from 431,136 in 2020 to 523,153,709 in 2023, increasing by 121,056.93% or 522,722,573 people.
+- In North America, total vaccination increased from 5,691,505 in 2020 to 458,523,091 in 2023, increasing by 7,999.83% or 452,831,586 people.
+- In Oceania, total vaccination increased from 26,305,175 in 2021 to 28,959,949 in 2023, increasing by 10.08% or 2,654,774 people.
+- In South America, total vaccination increased from 52,042 in 2020 to 375,416,586 in 2023, increasing by 721,471.23% or 375,364,544 people.
 
-####
+#### Total COVID-19 Cases Accros Continent 2020 - 2023
+- In Africa, total COVID-19 cases increased from 2,747,852 in 2020 to 13,113,368 in 2023, increasing by 377.91% or 10,365,516 people.
+- In Asia, total COVID-19 cases increased from 20,502,359 in 2020 to 300,657,724 in 2023, increasing by 1366.15% or 280,155,365 people.
+- In Europe, total COVID-19 cases increased from 23,229,749 in 2020 to 249,600,407 in 2023, increasing by 973.68% or 226,370,658 people.
+- In North America, total COVID-19 cases increased from 22,699,515 in 2020 to 124,491,980 in 2023, increasing by 448.76% or 101,792,465 people.
+- In Oceania, total COVID-19 cases increased from 55,184 in 2020 to 124,491,980 in 2023, increasing by 448.76% or 101,792,465 people.
+- In South America, total COVID-19 cases increased from 55,184 in 2020 to 124,491,980 in 2023, increasing by 448.76% or 101,792,465 people.
 
-
+#### Total Deaths Across Continent 2020-2023
+- In Africa, total deaths increased from 2,747,852 in 2020 to 13,113,368 in 2023, increasing by 377.91% or 10,365,516 people.
