@@ -49,7 +49,7 @@ With this variable, we can see the COVID-19 infection percentage based on the po
   - The last place is Latvia has the lowest COVID-19 infection percentage at 52.76%. There were 976,316 of 1,850,654 people infected with COVID-19.
 
 #### Conclusion
-Based on the short analysis, I can conclude the country with the highest COVID-19 infections is France with 38,997,490 people infected with COVID-19 which has a 57,51% COVID-19 infection percentage. It means that only half of France's population is infected by COVID-19. While Cyprus only has 660,854 people infected with COVID-19. It's much better than France with 38,997,490 people infected with COVID-19 but, in Cyprus, the COVID-19 infection percentage is at 73.76%.
+Based on the short analysis, I can inform the country with the highest COVID-19 infections is France with 38,997,490 people infected with COVID-19 which has a 57,51% COVID-19 infection percentage. It means that only half of France's population is infected by COVID-19. While Cyprus only has 660,854 people infected with COVID-19. It's much better than France with 38,997,490 people infected with COVID-19 but, in Cyprus, the COVID-19 infection percentage is at 73.76%.
 
 ### 2. COVID-19 Death Percentage
 ![](https://github.com/AinulMr/DataAnalyst_Covid/blob/main/COVID-19%20Death%20Percentage.png)
@@ -145,3 +145,13 @@ This chart shows us about average vaccination in each continent and how the COVI
 
 #### Conclusion
 Based on the short analysis, Every continent experienced a significant increase in the number of COVID-19 cases and deaths from 2020 to 2021. But from 2022 to 2023 the number of COVID-19 cases and deaths did not significantly increase after 70.53% population in the world took the vaccine against the spread of COVID-19. So I can conclude, that vaccination did pretty well in reducing the number of COVID-19 cases and deaths based on the data which I analyzed.
+
+## Recommendation and Conclusion
+Based on the whole analysis, we can see the effect spread of COVID-19 over the world including the number of cases and deaths. At the start of the COVID-19 pandemic, the number of cases and deaths increased significantly until the end of 2021 when a vaccine had not been obtained in several areas in 2020 such as in the African continent, Oceania, and even in Indonesia as well. Based on the analysis, vaccination reduced the number of COVID-19 cases and deaths. So I can recommend
+1. Make sure the vaccine is distributed to all corners of the world
+2. Socialize and implement health guidelines such as wearing masks, maintaining social distancing, washing hands, and avoiding crowds.
+3. Ensure healthcare facilities have sufficient capacity to care for both COVID-19 and non-COVID-19 patients.
+4. Ensure public facilities, transportation, and work spaces remain clean and safe.
+5. Residents must also maintain their physical health to stay fit and not lethargic
+
+# So, Are we really safe from COVID-19 now? What do you think?
