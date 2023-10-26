@@ -144,4 +144,4 @@ This chart shows us about average vaccination in each continent and how the COVI
 - South America has the highest death percentage across the continent at 0,31% of the population in South America. It's 1,356,420 people
 
 #### Conclusion
-Based on the short analysis, Every continent experienced a significant increase in the number of COVID-19 cases and deaths from 2020 to 2021
+Based on the short analysis, Every continent experienced a significant increase in the number of COVID-19 cases and deaths from 2020 to 2021. But from 2022 to 2023 the number of COVID-19 cases and deaths did not significantly increase after 70.53% population in the world took the vaccine against the spread of COVID-19. So I can conclude, that vaccination did pretty well in reducing the number of COVID-19 cases and deaths based on the data which I analyzed.
